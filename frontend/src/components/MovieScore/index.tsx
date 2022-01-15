@@ -1,6 +1,4 @@
 import MovieStars from "components/MovieStars";
-import { type } from "os";
-import { useEffect } from "react";
 import './styles.css';
 
 type Props = {
